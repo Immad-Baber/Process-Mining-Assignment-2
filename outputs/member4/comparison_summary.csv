@@ -1,0 +1,7 @@
+Metric,Agglomerative,Divisive
+Silhouette Score,0.3900,0.4145
+Mean Cluster Size,40.0,40.0
+Cluster Size Std Dev,17.1,13.7
+ARI vs K-Means,0.7731,0.9354
+Min Cluster Size,22,20
+Max Cluster Size,66,57
